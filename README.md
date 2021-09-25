@@ -23,12 +23,8 @@ The following image is the scores by school size summary including all of the gr
 The image shows the scores by school type summary including all of the grades:
 ![This is an image](https://github.com/Fbullman/School_District_Analysis/blob/main/Score%20by%20School%20Type.png)
 
-Summary
-There were four changes in the school district analysis after removing the ninth graders at Thomas High School's scores.
-
-In the district summary, the average math score was reduced from 79.0 to 78.9.
-The average reading score of Thomas High School increased by 0.1. After rounding, it increased from 83.8 to 83.9.
-The average math score at Thomas High School dropped from 83.41 to 83.35.
+## Summary
+In the district summary, the average math score was 81.9 and the average reading score was 79.0.
 The percent of students passing overall (both math and reading) at Thomas High School dropped from 90.9% to 65.2%.
 
 
