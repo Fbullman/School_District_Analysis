@@ -2,8 +2,9 @@
 ## Overview of the Analysis
 
 The purpose of this analysis is to assist the school board removing the potential academic dishonesty for math and reading grades, without impacting the analysis.
-##Results
-District Summary
+
+## Results
+## District Summary
 The district summary was affected by the removal of the ninth graders at Thomas High School's math and reading scores.
 The average math score was reduced from 79.0 to 78.9.
 However, the average reading score, the percent of students passing math and reading, and the percent of students passing overall (passing both math and reading) remained the same.
