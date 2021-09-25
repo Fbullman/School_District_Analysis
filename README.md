@@ -6,7 +6,7 @@ The purpose of this analyis is to provide performance trends to the school board
 ## Results
 ## District Summary
 
-- By removing the ninth graders at Thomas High School's math and reading scores, the percentage of students who passed both reading and math deceased from 90.9 to 65.2 
+- By removing the ninth graders at Thomas High School's math and reading scores, the percentage of students who passed both reading and math decreased from 90.9 to 65.2 
 
 ![This is an image](https://github.com/Fbullman/School_District_Analysis/blob/main/Passing%20reading%20and%20math%20percentage.png)
 
@@ -14,7 +14,9 @@ The purpose of this analyis is to provide performance trends to the school board
 
 
 ## Scores by School Size
-The average scores based on school size (small, medium, large) were not affected by the removal of the ninth graders from Thomas High School's scores.
+ - The average scores based on school size (small, medium, large) were not affected by the removal of the ninth graders from Thomas High School's scores.
+ - Based on the image, there is no correlation between budget per student and percentage of overall passing.
+
 
 The following image is the scores by school size summary including all of the grades:
 
