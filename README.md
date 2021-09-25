@@ -6,9 +6,9 @@ The purpose of this analyis is to provide performance trends to the school board
 ## Results
 ## District Summary
 
-**By removing the ninth graders at Thomas High School's math and reading scores, the grade average was reduced from 79.0 to 78.9
-**The average reading score,percentage of students passing math and reading, and the pertange of students passing oreavall (both math and reading) remained the same.
-The followin image shows the district summary with all the grades.
+- By removing the ninth graders at Thomas High School's math and reading scores, the grade average was reduced from 79.0 to 78.9
+- The average reading score,percentage of students passing math and reading, and the pertange of students passing oreavall (both math and reading) remained the same.
+The following image shows the district summary with all the grades.
 
 
 District Summary
