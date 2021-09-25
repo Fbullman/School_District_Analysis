@@ -13,7 +13,7 @@ The purpose of this analyis is to provide performance trends to the school board
 - The average reading score, percentage of students passing math and reading, and the pertange of students passing oreavall (both math and reading) remained the same, even after removing the 9th graders at Thomas High School.
 
 
-Scores by School Size
+## Scores by School Size
 The average scores based on school size (small, medium, large) were not affected by the removal of the ninth graders from Thomas High School's scores.
 The following image is the scores by school size summary including all of the grades:
 
