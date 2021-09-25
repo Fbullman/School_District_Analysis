@@ -15,7 +15,7 @@ The following image shows the district summary with all the grades.
 
 
 School Summary
-The school summary was affected by the removal of the ninth graders at Thomas High School's math and reading scores.
+
 
 The average math score at Thomas High School dropped from 83.41 to 83.35. After rounding, this change would not be evident.
 The average reading score at Thomas High School increased from 83.84 to 83.89. After rounding, this would be a 0.1 increase from 83.8 to 83.9.
