@@ -14,7 +14,7 @@ The purpose of this analyis is to provide performance trends to the school board
 
 The following image shows the district summary with all the grades.
 
-![This is an image](https://github.com/Fbullman/School_District_Analysis/blob/main/Images/All%20grades.png)
+![This is an image](https://github.com/Fbullman/School_District_Analysis/blob/main/Passing%20reading%20and%20math%20percentage.png)
 
 
 
