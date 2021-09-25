@@ -21,7 +21,7 @@ The following image is the scores by school size summary including all of the gr
 
 ## Scores by School Type
 The image shows the scores by school type summary including all of the grades:
-![This is an image](
+![This is an image](https://github.com/Fbullman/School_District_Analysis/blob/main/Score%20by%20School%20Type.png)
 
 Summary
 There were four changes in the school district analysis after removing the ninth graders at Thomas High School's scores.
