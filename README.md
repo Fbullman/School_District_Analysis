@@ -1,7 +1,7 @@
 # School_District_Analysis
 ## Overview of the Analysis
 
-The purpose of this analysis is to assist the school board removing the potential academic dishonesty for math and reading grades, without impacting the analysis.
+The purpose of this analyis is to provide performance trends to the school board to identify priorities and budget accordingly, removing the potential academic dishonesty for math and reading grades, without impacting the analysis.
 
 ## Results
 ## District Summary
