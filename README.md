@@ -10,7 +10,7 @@ The purpose of this analyis is to provide performance trends to the school board
 - The average reading score,percentage of students passing math and reading, and the pertange of students passing oreavall (both math and reading) remained the same.
 The following image shows the district summary with all the grades.
 
-!This is an image (https://github.com/Fbullman/School_District_Analysis/blob/main/Images/All%20grades.png)
+![This is an image](https://github.com/Fbullman/School_District_Analysis/blob/main/Images/All%20grades.png)
 
 
 
