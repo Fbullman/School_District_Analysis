@@ -15,6 +15,7 @@ The purpose of this analyis is to provide performance trends to the school board
 
 ## Scores by School Size
 The average scores based on school size (small, medium, large) were not affected by the removal of the ninth graders from Thomas High School's scores.
+
 The following image is the scores by school size summary including all of the grades:
 
 ![This is an image](https://github.com/Fbullman/School_District_Analysis/blob/main/score%20by%20size.png)
