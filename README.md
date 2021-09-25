@@ -10,11 +10,11 @@ The average math score was reduced from 79.0 to 78.9.
 However, the average reading score, the percent of students passing math and reading, and the percent of students passing overall (passing both math and reading) remained the same.
 The following image is the district summary including all of the grades:
 
-District Summary-Mod
+District Summary
 
 The following image is the district summary after removing the ninth grade scores from Thomas High School:
 
-District Summary-Cha
+District Summary
 
 School Summary
 The school summary was affected by the removal of the ninth graders at Thomas High School's math and reading scores.
@@ -31,62 +31,62 @@ After rounding to the nearest tenth place for the average math and reading score
 After rounding the percent of students passing math, reading, and both to the nearest whole percent these changes are not large enough to be reflected.
 The following image is the school summary including all of the grades:
 
-School Summary-Mod
+School Summary
 
 The following image is the school summary after removing the ninth grade scores from Thomas High School:
 
-School Summary-Cha
+School Summary
 
 Math and Reading Scores by Grade
 Math Scores
 The average math score for the ninth graders at Thomas High School has been replaced with NaN. The average math scores of the other grades (10-12) were not impacted by the removal of the ninth graders' scores.
 The following image is the math scores summary including all of the grades:
 
-Math Scores by Grade-Mod
+Math Scores by Grade
 
 The following image is the math scores summary after removing the ninth grade scores from Thomas High School:
 
-Math Scores by Grade-Cha
+Math Scores by Grade
 
 Reading Scores
 The average reading score for the ninth graders at Thomas High School has been replaced with NaN. The average reading scores of the other grades (10-12) were not impacted by the removal of the ninth graders' scores.
 The following image is the reading scores summary including all of the grades:
 
-Reading Scores by Grade-Mod
+Reading Scores by Grade
 
 The following image is the reading scores summary after removing the ninth grade scores from Thomas High School:
 
-Reading Scores by Grade-Cha
+Reading Scores by Grade
 
 Scores by School Spending
 The average scores based on school spending (per student) were not affected by the removal of the ninth graders from Thomas High School's scores.
 The following image is the scores by school spending (per student) summary including all of the grades:
 
-Scores By Spending-Mod
+Scores By Spending
 
 The following image is the scores by school spending (per student) summary after removing the ninth grade scores from Thomas High School:
 
-Scores By Spending-Cha
+Scores By Spending
 
 Scores by School Size
 The average scores based on school size (small, medium, large) were not affected by the removal of the ninth graders from Thomas High School's scores.
 The following image is the scores by school size summary including all of the grades:
 
-Scores By School Size-Mod
+Scores By School Size
 
 The following image is the scores by school size summary after removing the ninth grade scores from Thomas High School:
 
-Scores By School Size-Cha
+Scores By School Size
 
 Scores by School Type
 The average scores based on school type (charter or district) were not affected by the removal of the ninth graders from Thomas High School's scores.
 The following image is the scores by school type summary including all of the grades:
 
-Scores by School Type-Mod
+Scores by School Type
 
 The following image is the scores by school type summary after removing the ninth grade scores from Thomas High School:
 
-Scores by School Type-Cha
+Scores by School Type
 
 Summary
 There were four changes in the school district analysis after removing the ninth graders at Thomas High School's scores.
